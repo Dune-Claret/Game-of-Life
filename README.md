@@ -10,6 +10,6 @@ In a rectangular checkerboard of any size, counters are placed. Then, at each ge
 
 Files :
 
-script.py : Game of Life with Tkinter
-user_guide.pdf : user guide (french version)
-report.pdf : description of the project and its architecture (french version)
+- script.py : Game of Life with Tkinter
+- user_guide.pdf : user guide (french version)
+- report.pdf : description of the project and its architecture (french version)
